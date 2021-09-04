@@ -5,7 +5,7 @@ Server on Debian Buster through Docker with a Wordpress, Phpmyadmin and Mysql ru
 
 # Describe
 
-## to build image :
+### to build image :
 docker build -t ft_server .
 
 to run image :
