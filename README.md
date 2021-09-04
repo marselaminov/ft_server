@@ -1,2 +1,3 @@
-This is a System Administration subject. You will discover Docker and you
-will set up your first web server.
+# Server
+
+This is a System Administration project. I was discover Docker and set up your first web server.
