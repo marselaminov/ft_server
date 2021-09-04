@@ -5,10 +5,10 @@ Server on Debian Buster through Docker with a Wordpress, Phpmyadmin and Mysql ru
 
 # Describe
 
-### to build image :
+#### to build image :
 docker build -t ft_server .
 
-to run image :
+#### to run image :
 docker run -it -p 80:80 -p 443:443 ft_server
 
 SSL auto-certificate is created
