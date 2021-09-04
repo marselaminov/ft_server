@@ -11,6 +11,5 @@ docker build -t ft_server .
 #### to run image :
 docker run -it -p 80:80 -p 443:443 ft_server
 
-SSL auto-certificate is created
-MySQL is automatically created
-Wordpress is automatically setup
+# Result
+SSL auto-certificate is created. MySQL is automatically created. Wordpress is automatically setup.
